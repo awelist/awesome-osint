@@ -70,6 +70,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 - [FotoForensics](https://fotoforensics.com/) – Analyze image metadata and digital forensics.
 - [YouTube DataViewer (Amnesty)](https://citizenevidence.amnestyusa.org/) – Extract upload timestamps and thumbnails.
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/) – Pull a YouTube video's caption transcript with timestamps to search and quote what was said.
 - [InVID Toolkit](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) – Browser extension for video verification.
 - [TinEye](https://tineye.com/) – Reverse image search to trace image origin.
 
