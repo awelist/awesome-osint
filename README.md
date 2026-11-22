@@ -60,7 +60,6 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Smihub / Dumpor (Instagram)](https://dumpor.com/) – View and download public Instagram stories and posts anonymously.
 - [Social Fetch](https://www.socialfetch.dev) – API for public social media posts, profiles, comments and transcripts as JSON.
 
-
 ## Geolocation & Maps
 
 - [Google Earth](https://earth.google.com/) – High-resolution satellite imagery and street-level visuals.
