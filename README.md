@@ -58,6 +58,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Spoonbill](https://spoonbill.io/) – Track bios and changes of Twitter profiles.
 - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) – MIT-licensed X/Twitter OSINT toolkit for public tweet search, account triage, follower export, network mapping, watchlist monitors, and media preservation.
 - [Smihub / Dumpor (Instagram)](https://dumpor.com/) – View and download public Instagram stories and posts anonymously.
+- [Social Fetch](https://www.socialfetch.dev) – API for public social media posts, profiles, comments and transcripts as JSON.
+
 
 ## Geolocation & Maps
 
